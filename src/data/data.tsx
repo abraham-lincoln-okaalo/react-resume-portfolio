@@ -226,19 +226,19 @@ export const portfolioItems: PortfolioItem[] = [
   },
   {
     title: 'Project title 6',
-    description: 'Give a short description of your project here.',
+    description: 'Description',
     url: 'https://crypto-stats-news.netlify.app/',
     image: porfolioImage6,
   },
   {
     title: 'Project title 7',
-    description: 'Give a short description of your project here.',
+    description: 'Description',
     url: 'https://comfy-house-okaalo.netlify.app/',
     image: porfolioImage7,
   },
   {
     title: 'Project title 8',
-    description: 'Give a short description of your project here.',
+    description: 'Description',
     url: 'https://budgety-vanilla-js.netlify.app/',
     image: porfolioImage8,
   },
