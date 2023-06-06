@@ -244,19 +244,19 @@ export const portfolioItems: PortfolioItem[] = [
   },
   {
     title: 'Project title 9',
-    description: 'Give a short description of your project here.',
+    description: 'Description',
     url: 'https://abraham-lincoln-okaalo.vercel.app/',
     image: porfolioImage9,
   },
   {
     title: 'Project title 10',
-    description: 'Give a short description of your project here.',
+    description: 'Description',
     url: 'https://abraham-lincoln-okaalo.vercel.app/',
     image: porfolioImage10,
   },
   {
     title: 'Project title 11',
-    description: 'Give a short description of your project here.',
+    description: 'Description',
     url: 'https://crypto-stats-news.netlify.app/',
     image: porfolioImage11,
   },
