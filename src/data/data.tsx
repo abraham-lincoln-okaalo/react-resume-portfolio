@@ -195,32 +195,32 @@ export const skills: SkillGroup[] = [
  */
 export const portfolioItems: PortfolioItem[] = [
   {
-    title: 'Project title 1',
-    description: 'Give a short description of your project here.',
-    url: 'https://timbaker.me',
+    title: 'Gigsteria',
+    description: 'A front-end clone of fiver.',
+    url: 'https://gigsteria.vercel.app/',
     image: porfolioImage1,
   },
   {
-    title: 'Project title 2',
-    description: 'Give a short description of your project here.',
-    url: 'https://timbaker.me',
+    title: 'Travel Advisor',
+    description: 'All the great hotels, attractions and restaurants around you.',
+    url: 'https://travel-advisor-alo.netlify.app/',
     image: porfolioImage2,
   },
   {
-    title: 'Project title 3',
-    description: 'Give a short description of your project here.',
-    url: 'https://timbaker.me',
+    title: 'Cryptoverse',
+    description: 'Your crypto stats updated.',
+    url: 'https://crypto-stats-news.netlify.app/',
     image: porfolioImage3,
   },
   {
-    title: 'Project title 4',
-    description: 'Give a short description of your project here.',
+    title: 'Comfy House',
+    description: 'An interesting e cart for your online store.',
     url: 'https://timbaker.me',
     image: porfolioImage4,
   },
   {
-    title: 'Project title 5',
-    description: 'Give a short description of your project here.',
+    title: 'Budgety',
+    description: 'Vannilla JS helping you keep your finances in check.',
     url: 'https://timbaker.me',
     image: porfolioImage5,
   },
@@ -345,19 +345,19 @@ export const blog: BlogSection = {
   imageSrc: blogImage,
   blogs: [
     {
-      name: 'Coming soon',
+      name: 'Blogs will be coming here soon',
       href: 'https://www.freecodecamp.org/blog/javascript-algorithms-and-data',
       text: 'Data structures and algorithms are two fundamental concepts in computer science that every programmer must learn to write efficient and effective code. Data structures are used to organize and store data in a way that makes it easy to access and manipulate, while algorithms are a set of step-by-step instructions used to solve a particular problem. In this blog post.....',
       image: 'https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/169.jpg',
     },
     {
-      name: 'Read More',
+      name: 'Blogs will be coming here soon',
       href: 'https://www.freecodecamp.org/blog/javascript-algorithms-and-data',
       text: 'We will explore the basics of data structures and algorithms using JavaScript.JavaScript is a popular programming language that can be used to implement a wide range of data structures and algorithms. In JavaScript, arrays are used to store and manipulate ordered collections of data, while objects can be used to represent key-value pairs....',
       image: 'https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/14.jpg',
     },
     {
-      name: 'Read More',
+      name: 'Blogs will be coming here soon',
       href: 'https://www.freecodecamp.org/blog/javascript-algorithms-and-data',
       text: 'One of the most basic data structures is the array. An array is a collection of elements of the same type, stored in contiguous memory locations. In JavaScript, arrays are declared using square brackets, and elements are accessed using their index......',
       image: 'https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/69.jpg',
@@ -390,8 +390,8 @@ export const contact: ContactSection = {
     },
     {
       type: ContactType.Github,
-      text: 'lincoln-O',
-      href: 'https://github.com/lincoln-O',
+      text: 'abraham-lincoln-okaalo',
+      href: 'https://github.com/abraham-lincoln-okaalo',
     },
   ],
 };
@@ -400,9 +400,9 @@ export const contact: ContactSection = {
  * Social items
  */
 export const socialLinks: Social[] = [
-  {label: 'Github', Icon: GithubIcon, href: 'https://github.com/lincoln-O'},
+  {label: 'Github', Icon: GithubIcon, href: 'https://github.com/abraham-lincoln-okaalo'},
   {label: 'Stack Overflow', Icon: StackOverflowIcon, href: 'https://stackoverflow.com/users/13589058/abrahamlincoln'},
   {label: 'LinkedIn', Icon: LinkedInIcon, href: 'https://www.linkedin.com/in/abrahamokaalo/'},
-  {label: 'Instagram', Icon: InstagramIcon, href: 'https://www.instagram.com/___abu___404/'},
+  {label: 'Instagram', Icon: InstagramIcon, href: 'https://www.instagram.com/___abu___404'},
   {label: 'Twitter', Icon: TwitterIcon, href: 'https://twitter.com/____abu'},
 ];
