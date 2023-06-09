@@ -85,7 +85,7 @@ export const heroData: Hero = {
   ),
   actions: [
     {
-      href: '/assets/resume.pdf',
+      href: 'https://indigo-penni-74.tiiny.site/',
       text: 'Resume',
       primary: true,
       Icon: DownloadIcon,
@@ -225,9 +225,9 @@ export const portfolioItems: PortfolioItem[] = [
     image: porfolioImage5,
   },
   {
-    title: 'Project title 6',
-    description: 'Description',
-    url: 'https://crypto-stats-news.netlify.app/',
+    title: 'Amazon Data Scraper',
+    description: 'Access to product data from Amazon in JSON format',
+    url: 'https://rapidapi.com/lincolnokaalo/api/alo-amazon-data-scraper/',
     image: porfolioImage6,
   },
   {
