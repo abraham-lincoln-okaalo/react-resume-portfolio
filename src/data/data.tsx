@@ -85,7 +85,7 @@ export const heroData: Hero = {
   ),
   actions: [
     {
-      href: 'https://indigo-penni-74.tiiny.site/',
+      href: 'https://abraham-lincoln-okaalo-resume.tiiny.site/',
       text: 'Resume',
       primary: true,
       Icon: DownloadIcon,
